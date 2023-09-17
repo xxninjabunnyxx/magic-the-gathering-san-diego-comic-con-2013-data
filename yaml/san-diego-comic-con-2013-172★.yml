@@ -1,0 +1,123 @@
+---
+object: card
+id: d61f670e-8e4c-493f-bef0-c4c7b0bcd288
+oracle_id: 8e2fbc26-5373-4fd7-8e9e-41af5bb9ff18
+multiverse_ids: []
+tcgplayer_id: 70711
+cardmarket_id: 263496
+name: Garruk, Caller of Beasts
+lang: en
+released_at: '2013-07-18'
+uri: https://api.scryfall.com/cards/d61f670e-8e4c-493f-bef0-c4c7b0bcd288
+scryfall_uri: https://scryfall.com/card/psdc/172%E2%98%85/garruk-caller-of-beasts?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1605371036
+  normal: https://cards.scryfall.io/normal/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1605371036
+  large: https://cards.scryfall.io/large/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1605371036
+  png: https://cards.scryfall.io/png/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.png?1605371036
+  art_crop: https://cards.scryfall.io/art_crop/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1605371036
+  border_crop: https://cards.scryfall.io/border_crop/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1605371036
+mana_cost: "{4}{G}{G}"
+cmc: 6.0
+type_line: Legendary Planeswalker — Garruk
+oracle_text: |-
+  +1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+  −3: You may put a green creature card from your hand onto the battlefield.
+  −7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle."
+loyalty: '4'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: d61f670e-8e4c-493f-bef0-c4c7b0bcd288
+  component: combo_piece
+  name: Garruk, Caller of Beasts
+  type_line: Legendary Planeswalker — Garruk
+  uri: https://api.scryfall.com/cards/d61f670e-8e4c-493f-bef0-c4c7b0bcd288
+- object: related_card
+  id: d16429cb-9b00-4411-9ffc-252b38ad0b8c
+  component: combo_piece
+  name: Garruk, Caller of Beasts Emblem
+  type_line: Emblem — Garruk
+  uri: https://api.scryfall.com/cards/d16429cb-9b00-4411-9ffc-252b38ad0b8c
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 19132aaf-ed11-4985-9cac-a8dc58827701
+set: psdc
+set_name: San Diego Comic-Con 2013
+set_type: promo
+set_uri: https://api.scryfall.com/sets/19132aaf-ed11-4985-9cac-a8dc58827701
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsdc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psdc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d61f670e-8e4c-493f-bef0-c4c7b0bcd288/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e2fbc26-5373-4fd7-8e9e-41af5bb9ff18&unique=prints
+collector_number: 172★
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Prescott
+artist_ids:
+- a1139fb8-41f5-4a9e-9a74-f662e1a23b35
+illustration_id: b82e4b55-744b-4baf-b7aa-e42c573a020b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- convention
+edhrec_rank: 6491
+penny_rank: 4593
+prices:
+  usd: 
+  usd_foil: '82.57'
+  usd_etched: 
+  eur: 
+  eur_foil: '88.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Garruk%2C+Caller+of+Beasts&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Garruk%2C+Caller+of+Beasts&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Garruk%2C+Caller+of+Beasts
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/70711?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Garruk%2C+Caller+of+Beasts&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Garruk%2C+Caller+of+Beasts&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,15 @@
+---
+object: set
+id: 19132aaf-ed11-4985-9cac-a8dc58827701
+code: psdc
+name: San Diego Comic-Con 2013
+uri: https://api.scryfall.com/sets/19132aaf-ed11-4985-9cac-a8dc58827701
+scryfall_uri: https://scryfall.com/sets/psdc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsdc&unique=prints
+released_at: '2013-07-18'
+set_type: promo
+card_count: 5
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
